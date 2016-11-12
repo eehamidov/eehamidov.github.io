@@ -4,7 +4,7 @@ body{
 
 @font-face {
     font-family: "Clear Sans";
-    src: url('/fonts/ClearSans-Regular.ttf');
+    src: url('/fonts/ClearSans-Bold.ttf');
     font-weight: bold;
     font-style: normal;
 }
@@ -14,7 +14,6 @@ a{
 }
 
 .text{
-    font-weight: bold;
     font-kerning: normal;
     font-size: 150px;
     color: yellow;
@@ -23,6 +22,7 @@ a{
     padding: 0;
     margin: 0;
 
+    /*opacity*/
     opacity: 0.5;
     transition: opacity .25s ease-in-out;
     -moz-transition: opacity .25s ease-in-out;
