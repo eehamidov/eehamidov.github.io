@@ -4,7 +4,7 @@ body{
 
 @font-face {
     font-family: "Clear Sans";
-    src: url('/fonts/clear-sans-bold.ttf');
+    src: url('/fonts/ClearSans-Regular.ttf');
     font-weight: bold;
     font-style: normal;
 }
