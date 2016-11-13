@@ -4,10 +4,9 @@ body{
 
 @font-face {
     font-family: "Clear Sans";
-    src: url('/fonts/ClearSans-Bold.ttf');
-    font-weight: bold;
-    font-style: normal;
+    src: url(fonts/ClearSans-Bold.ttf);
 }
+
 
 a{
     text-decoration: none;
